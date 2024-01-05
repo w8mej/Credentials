@@ -1,0 +1,40 @@
+# GitHub Actions Workflow - CyberArk
+# In the sprawling digital metropolis of our project, this workflow is the pulse of our Python odyssey.
+# It echoes the ethos of "Neuromancer", orchestrating our code in the vast cybernetic expanse.
+
+name: CyberArk
+
+# Trigger the workflow on push events but only for the main branch
+on:
+  push:
+    branches: [ main ]
+
+# Jobs to be executed
+jobs:
+  build:
+
+    # Running on a machine with the latest Ubuntu
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checking out our code into the world of GitHub Actions
+    - uses: actions/checkout@v2
+
+    # Setting up Python in the virtual environment
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    # Installing dependencies
+    - name: Install dependencies
+      run: |
+        echo "Installing the cybernetic enhancements of our project..."
+        pip install -r requirements.txt
+
+    # Running the "Hello World" script
+    - name: Run a one-line script
+      run: |
+        echo "Echoing through the digital void..."
+        echo "Hello World from the neon depths of Python!"
+

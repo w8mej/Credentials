@@ -1,0 +1,5 @@
+requests
+hvac
+logging
+typing
+pytest
