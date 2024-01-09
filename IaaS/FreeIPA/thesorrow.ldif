@@ -1,0 +1,340 @@
+dn: uid=thesorrow,ou=People,dc=haxx,dc=ninja
+CACertificate;binary:: notavailableforpublicconsumption
+associatedName: c=us
+associateddomain: haxx.ninja
+audio: UklGRgobAABXQVZFZm10IBIAAAAHAAEAQB8AAEAfAAABAAgAAABmYWN0BAAAANcaAABkYXRh1xoAAP///v////7+fv/////+/v//fv///////v//////////fv///n7//35+fv7//v7+//9+//9+/v9+//7///////7/fv//////////fv//////fn7///9+/v////9+/37///9+/37/////////////fv9+fn5+/////37////+////fv//////fn5+//7///9+/////v9+/37//35+/37//35+//////9+fv///v///37////+fv/+////fn7///7/fv//fv7/////////////////fv////9+fv////5+//9+//7//v9+fv////9+fn7///7+/35+fn7/////fv//fv9+//////9+fn5+fv//////fv////7///9+fv////9+fn5+///+//9+/37+/v//fn5+//7+/37/fn5+/////v9+fv//////fn7////+////fv////7//35+fv/+/v9+fn7//v7+/35+///+/v9+fn5+///+fn5+fn7//////////37+/37/fv7//35+fn7/////fn5+fv/+/35+fv///37//////////n5+fv////9+fn5+//7+fv9+fv7//v9+fn5+//7//37/fv//fv9+fn5+fv9+fn5+/37/fn5+fn5+//////7+/v7+/v3+/f39/f39/f7+/v7+/v9+fn5+fX19fXx8fHx8fH18fXx8fH18fX19fX5+/v38/Pv6+fn39/f29vX29vf4+fn8/P3+fn18e3l5d3d4d3d2eH1w/XZ4+XHtbPNvef118W30d/Z99XB9+XvyfvF282zr/W7sdvZp83X2/Wt7bvT0//nz93d7+fV0+Pht4WPdaGd7cnb85l3nYdNY22rkcGbhWNNT0VPgZ/d26GDge/vjW9hS3mt1Zt9d1U7KV+xq/XNdzFfVT8tLy0/demLcUM1M2GPyb/1993Fy1FnXW9JP2F7y7U7ITNdY1ErNVdZnc91X1mbhaeVY42X/dupc1FXaXvXme2DUal3YYXXbT9FTbtxP2H13+9FP0lPMR8tMy07x3219cd1VzUnKUN9ub1XHQ8heeXPsZ9tV391Mzl98fudm4VjUV/hp3lHPU89Q4mLXVdph8vZm4l3dXdZPykrLTs1NzE3aYG1s3l3v3FPOVN107U3EPsJO/Ntrbd9c1F5YxUTKVefuU+zbT85aaM5IzV3f8lLQaFnSVt/gS8ZN5W5r6/1X1XhbzmVt9dtOzknLWlnKTtvydvD7XM9N2vZY21x1/WJb0Uh00kXf7krOV1PKSMrWSb1yWr9YyNxRuU3nxFDNVGzMPm1dRVA+SUU7PkhAQj5PSEJlT/jK2727vq+7tLC6ubXCxMrY4VhXS0Y7Qzk1NjUyMjI1NTQ5PDw+Qj1c2968sq2oq6OjqKirr7bJzupPSkM+QDg5NzQxMC8vLy4yLjQyODc5ODJD0c24pqCen52coqqtucZwW2NNSElMQzw2NTEuLi8xLzAxMzM0NTc2NjAv0L+yp52bnZ+fprG/0s1z6tbN9f1TTjk1LzAtLzA0NDI1MjYyOTU7NTcs8bitpJ6anJ+nqbrJZ9PVzcLBzPlRQjcvLS4uMTQ5NzY0MzQzNzU8NT0sP7uqo56cnJ+qrr/NU9zNvLy3w99MPDYtLSsxMTs5Pjc2MjE0NDo5Pzs8LuKto56enaGot73ofV7IubOwus1FOS8uKistNjxDQj03MjAxNTk+QkVDPDK/qZ2cnqKpssTMYu/xuLGrr75ONC0rLCwuMz5IT0M6MC8uNjlHRVZITDo2vKaanKCvvczIydPVy7Cqp7LjLygnLTQ4OjtIUF0/NSssLj1Lc19gTk0+Ob6nmZumy0luvrK81XO8q6SuXSkgJTJKTz44PE98TzcrKi5FcNB7XUpNRTzAqZqbp9Q9YrmttuJJ0K2jquIqHyMxTFc8NDdN5Hk+LSouQXHP91pITUlBvqibnKneOm63qrXwPuKvo6niKR4jMWZXPy82Sc7XQy4oLj/XzeFNRUxNSrqnm52s9jnfs6m4XDnurqGqbCYeJDftVjwtNUrL2EUuKS5D2s34TEJMSlG0pZqfsEw7za+pvkc326uhrEskHihB2lY2LDVdw9E/KykvT8/MW0M+S0bfraCap7w6SruqrNo7OrynoLk3HyEuZNZHMSw97r9xOCkqNl7L6lM9RkZPuKacn7FUOtOtqblANlmsoaloJx8nROhoMy0wW8XKQywpL0vg109EP1BGvaicnK7hONuvqLhJMlSvoafaKyApQNtTNCoyU7/ISS0pL0bl608/QU1MuaWcnbJrOsytqb49MnmroKpaKSMtRnI+Lis3dMTaPC0rNU38V0U8SEhvrJ+aor5ETrepr2s3P7alo742JSo5UkgvKy1K3M9DLysvQFddRD8/SUyun5qfvFZMt6qv5TtFtqWkuj0pLDhPQjErLUBq2D8yKi87T09FPT4/UquemaK/TvqxqrVaPVyupafKNikuPUo7LiswSetkOy4sMj9OS0E8Pj62oJqdtG9Xuauv2kFNt6emuEAtLDhAPzAsLj1nYkUwLS47REtBPjs9tqCZnbP9Y7mss9tFXrWnp7dHLy01QDszLC88WVo/MS0vOEJHPz43VKqdmKS7Y8yyr79ZSdauqavOPiwvNT43MC0zRFtXOjAsMzhIP0I1Rq6emKC03tK1s79xUdCyqqy9TTQvMjg0Mi80PkhKOjMtLzI5Ozw0b6ucmaGvwLq3vdv49L2zrrXKTzgzMjEvLi82Oj86NzAwLzM0ODNCt6KbnqWtr7K9z9nPvrm2ushkPjYxMC4uLzI1NzY1MzM0NDczN96toJ+ipairtcDJw727u7zB11c/OjYzMC8vMDAvLy8vMDAyMTFNvqyop6Wlp6yys7Oztrq9yNxWRj05NTEvLi4uLi4uLi4uLjA+asa4r6qop6iopqaoq661vs9sTUY+OTQwLi0sLCwsLS0tLSwvPVjPvbGrqaempKKipKerr7vL+lNHPTgyLy0sKysrKywsLCwsLjhI9cS2rauop6ShoaKkp6y0v9NoTkA6NC8tKyoqKisrKyssKy43RXbFtq6rqaajoaGho6estb/QcU9AOjQvLCsqKioqKysrKystNT9bzLqwraqnpKGhoaGlqq+6x+JaRjw2Ly0rKikqKiorKysrLDE6SuC/tK6rqKaioaCgo6estL7PdU4/ODAtKykpKSkqKysrLCwvN0Fiy7qwraqnpKGgoKGkqK63w9tdRzw1LywqKSkpKiorKysrKy83QGPLurKuqqekoZ+foKSorba/1GdJPDUvLCopKSkqKisrKysrLzY/Xc28tK6rp6Shn5+gpKittb/Pc0s9NS8sKikpKioqKyssLCwvNz9Yz721r6unpKGfn6Cjp6y0vc14TD01LiwqKSkpKisrLCwtLC0yOkRsy7uzrqqno6Cfn6CkqK61v9JkRjszLisqKSkqKyssLC0uLi4yOkVozLuyraqmoqCfn6CkqK21vs9oSDw1Ly0rKioqKisrLCwsLCsuNDxJd8m7sq2ppaKfn5+hpKiss7zMd0s9Ni8tKyoqKiorKywsLCwsLTM7RV7PvrSuq6ejoJ+foKKlqa62v89kSDs1Ly0rKioqKiorKywsLCwvNz5L9ci6sa2qpaKgn5+ho6essrvJ/Uw8Ni8tKikpKSoqKissLC0sLTE5QE/gw7evrKikoZ+fn6GkqK20vs5iRTozLiwqKSkpKiorLC0tLSwtMztDVta/ta+rp6Ogn5+foaSpr7fC21A/NjAtKikpKSkqKissLS4uLS82PUZhzryzrqumop+fn5+hpaqvucbtSzw0LywqKSkpKSorLC0uLi4tLzg+SWvKu7GtqqWhn5+fn6Glq7K8zWRDODEtKykoKCkqKywtLi8vLi4vNTxK+Me4rqmmpKGfn6GjpqmuuMLXY0g8NjMvLiwrKysrLCwtLi4vLy4uNzxUxbKqpJ+eoKWmq7K/wb7AxcTE0W1JPDQuLCwsLS8xMzUzNTQzNDMzLjjHr6mhnZygrKy0xtnxwMDAurzKbD44LioqKy4wNzw+Ozs3NzQ1NTcwQbOro56cnau0s8jgb8y6v7m3w3tBNjAqKiwuNDc/Pz46ODY1NjY6NTa7qaWenZ2pv7jLY2HbuLu7tL74QDMwKiotMDc9RklAPDg1NDU3Ozg2uaWlnp2ert/A5EtbzrS5urHCWDkwLikrMTg/R1JTQjs2NDE1Nz05O66jpJ6eob1Py1pGbMOvuLewyEw1Ly0pLDY9SlZqWUA6NDIwNDY8M1anpaGen6hlWddCTuK4sLqytec/Ly4rKTA7SVtv7lM/ODMwMTQ7OjizoqSen6O9QepQQ27Fr7W4sMNPNi4tKSw3Q1t54nlIOzUyMDM1PTTbpKWgnqGtSU55PlfUtLC6sbl0PC4tKio0P1b94t9RPjYyLzI0PDdDqqSjnqCofUHzQ0rgvK64tLPWRDAtKykvPU7659hgQzgzMDEzOjs3s6Okn5+lwDxvS0R+xK+1t7HFTTUtLSktOUpr5Nv3SDs0MTAzNz0106OloJ+ir0NOaD9Y1LSwubC4/j0uLisrNUFZ8+HfTz02MjAyNj07PayipJ6gp9I9fkpI7cCutreyyEszLS0qLjpJZPPfbEQ6NDAvMzc9NlempaGeoatTR/JEUt24rbmytdlBLy4sKjE9Tmn95FM+NzEwMDY5PzZvpaWhn6KsS0ziSmjTtK25sbfcPy8vLCoxPEtXY31OPTczMjI3Oz46PKykpJ6go8RM011V+cCstrWyw1o2MS8qLTM8RkhXTT84NDIzNDo7PjY/rKekn5+ivuDGeGFhva63srG9+zo5MSsrLzY6PUpGPTg2NjQ3Oj48PTLgq6qin52jury/3PptuLS5s7a+bUE9Mi0tLzM1OT07OTY1NTQ3OTs6PDM/u7GqpJ+eqq6vubzIurK5uLzC1U5GPDUyLzAxMDMzMzM0NTY4Ojw9PTw5VcS5raiipaqprK6ws6+zt7vFzm9QSj88ODUzMC8vLzAxMzQ1Nzg6Ozw8OUbpybiuqKaop6ioqauqrLC3wM/9T0lAPDgzMS4uLi4uLy8wMTMzNTY3NzQ4Q1fXvrGrqqimpKKioaKlqq+5wtZtUkY+ODMvLi0tLS0uLi4vMDEzNTc4ODY4Q1ffwLSsqaimpKKhoaGjp6y0vcvoXUtBOzUxLi0sLCwtLS4uLzAxNDU3ODk3Nz9T58O2raqppqSioaGho6essrvI32JMQjs1MC0sKyssLC0tLi8wMjQ2ODo6Ojg5RFrcwLWtqqimpKGhoaGjp6y0vc17UUQ9NzEuLSwsLC0tLi4vLzEzNTc4OTk4ODU1PVTXwLSrpqWjoaCfo6Smqq62vcjdZU5EPjk2NDAvLy4uLi8xMjU3OTs7Ozo3NzQyLy9LwbOrpJ2cn6KjpKuys7S5wMnM1vFjTUQ+Ojg1NDQzMzM1Njg6PD09PTs6ODY0MzExLTTJr6qlnZqdoqanrLi/vL3By83V5WhOQz07OTc2NjY1NTY4Ojs8Pj4+PDo4NjQyMzE0LzfGq6emnpudo6eprLjFycrP6PxgX1NMQDw5ODY0NDQ1NDU3Ojw+P0FBQD48Ojk3Nzc2NzM32aylpaGcm56lp6uxv8vQ1+x3ZlxZUkk+Ojg3NTQ0NTc4Oj0/Q0ZHRkZEQT49Ozw6Ozo7Nzf6raKjoZ2anaOoq7K/zuD/X1tVTkxLRTw3NTQ0MjIzNjg8PkJHS05NTUpJQ0I+Pj09PTw9OjrzrKCho5+cnaOrsLnE03tQSExOS0NCQDw1MjExMTEyNTg8P0NHSk1NTEpJR0VDQ0JDQ0RCQjs8fq2fnqGfnZyfqK++zNzsVkdGS0xGREE9NzQ0Njc4OTs9QUZKSkxMTUxLSUVCPz49PT09PT4+Oztlr6Cdnp+enp+lrLrWamlqWk5JR0ZJS0Y+Ojo8P0BBQUFESExNS0hGRENAPj07Ojo7Ozw8PT09OjtatKOenp+goaKlqrbXTkxVXFFIQkFGS01FPjw+QUVGRURFSUxPTUtJR0VEQT89PT09Pj9AQkNDQj09WbWinJ2foKGipaq11ktGTFNQS0hHSk9ORz89P0FEREJCRElPUk9LSEVDQD48Ozo7PDw+PkBBRERCPT7zrZ+cnqGjo6Sor8hOPD5GT05NTVFcYVdHPjw/QkZERUZLVFtcVE5JRkNBPz48PDw9Pj9CQ0VFRUQ/O0LBo5qanqOjo6auvlo9OT9MVltfY2FdUEQ7ODo+QkZITlZo/P1lVExHQz8+PT09Pj9AQkRGRkhHSEZDPD/MpZqan6WlpKm0yFY/Oj9KWmj3/mJVST42MjQ6PUNJVGF77/JsWE5JRkNCQUFBQ0RGRUZHSEhIR0dEQTtAwKCYmqCloqSrvNdSQj1DTmXr4fNcT0I5MTA0Oj1DSllv6OHqdVxSSkdERUNEREZHSEhISUlJSUlJR0Y+PPGpmpqfpaGhq8DgeFJCPkhd4t97VUxEOS8tMDY6PUVSZ/rs6e9zXVJNS0lHRUdISUhISkxMTExMS0xKSUM9a6mamqCknp6t0v7aZkM9SHbY7lROUUQzLS80Nzg9S2N99und3OxkWFNPSkZERkdHSEpNTlBQUk9QTk5MS0U+0qWanqOem6W9z8r4PjpBVmnsfXBmVj4yLzA0NTlATldo/d/f4n5lV01HQkA/Pz9BREdKTlFVVVdTU09QTU5DRLmfnKGfm56vv8HWSDtBT15p6d3ibkw8NDMyNDY8Q0tOWGNtcGlpW1RLSEJAPz8/QkRJTVBVWFlXVlJQTk5KSD3UpZ2hnpicqre510k7QU1ZXt7P4G1VRTczMTM0OT5HTVJcZmVmZmVbWlVUT01MTE1MT05UUFdTV1NST05NS0lHPFaqoaWemJ2rr7buRD1BT1hd0MTiX1tGNC8vLi80OkBITFVbXFxfZFxcVldPT0xNTU5QU1hYW1haVVRQUVBQUE9NRz66oqShmpqjrLTISz9ATlZozcbT72tIOC8uLi4yOkJKVF5fXFpcWlpZWVdUUVFRUlRXXF5jYmVfX1lZVlZWV1lXW1FUP9yqpqOdm5+otcNNPUBNXeTGvsniXkM1LSwrLTE6Q05baWNbWVhZW2BmaWZiXlxaW1xfX2ZkZ2BfWlpXV1lcYWFrYWhYWUVSsqqpoJ2gqLG+WT5ETV3ixb3F2mtFNi4rKywvNz9JVmFfXFpXWVxhaG52aGloXGdkYnR0bv9vampjYV9qYG10bHh3Z2ZdV0Vhta2ro5+krLK/V0RMWGPXv7zFz+1JOC8tKy0vNj5ET1tTWVBPVlJdamVweGhpZmptbvTu+ezzbGxlXmFnaHbu+Ozp+3F0XFhOSM2xr6uho6uttNRPYGJP88TGycXOekk8Ny8tLy8zOj5ER05OSU1STE5aW1JhfGhl6N925dXq9tjgeOve9Gvk4Wv65Ppr/m5fX1hMT9bAvK+pq6yrsr3EzNvu3dfa0M7a5XxPRT85NTc2Mzk+Oj5KRUZTUUpVXUxXaldffXby6+Lf593c6ubd5vHv5+X88eZ5cen7YGx8V1pdUt7LzLqytrGutbq4v8rIz9/X2fjp411ZYEpCSD87QD86P0U+Q01JSlJWU1RfYllk+GJk5vlq4OBv5Nz/69v4893xfd/tcOrubfzwa2h4aVxy5e/bysvKwMHHwsLMzMrU2tXd7+n2Z2diV1ZWT09QTU5QTk9VU1RbW1ljY11qbmRufG1093t+7/X47e7y7O3v7O3w7u/38/H+/fh4dHxwanf9fOzf39vU1NXQ0tfV1tvd3eTq6/V3c21lYmFeXV1cXF1dXV5fYGJkZmlqa21vb3N4d3l+fv75+fn29fbz8fLy8PLz8/X29/n8/X58eXh1dnp8/fXw7enn5uTk5ebn6Ors7vH2+n54c29samloaGdnaGlqa2xtbnBydXd5e3x+/v37+/r5+fn49/f29vf29vb29/f3+Pj5+vv9/n58fX7//Pr49vXz8/Pz9PX3+Pv8/X59e3p5eHh4eXp6e3x9fv7+/v3+/v7+/v9+fX5+fn5+fX5+fn7///7+/v7////+//7+/v7+/v7+/v9+fX19fX1+/////37+/v7+/v7//////35+fn5+fv/+/f7+//7+/v//fn19fX5+fn5+///+/v7+/v7+///+/n5+fn5+fX5+fv/+/v7+/////v7+//9+fn5+fn5+fv9+/////v7+/v7+/v7//35+fn5+fn5+fn7//v7+/v7+//7+//9+fn5+fv9+fn5+fv///v////////////7//v7+/v//fn5+fn5+////fn7+//7+fv7//37///9+fn5+fv////7+/v///////37/fv9+fn5+/////////v5+/////v9+fn5+////fn5+fn7//v//fn7+/v7+fn5+/////359//7/fn5+//1+//1+/v59/H3//nt7ff19ff78+/5++/19e/39fn58e339/Hp++Xn9+Xz+eHh+fPLx8Hhz+H17/nht925p5vB8+Hz59Pt2d/T0dXB6ePryeXf7c3vs+27w8XT5fGx5+Hr3/2769Hz26/13/HB1/mp+73b88vf+9vh8/W538HNz9f15/n3083T6/Xdz/vp3+HT+7Xd++P58evJ4cfp9fvz5/n37fn7+/np1eXj+9/v9+Ph6+fh4/nh2/Hp3+vZ4+/F3//x6fn1+fvn8fft7fn18/nx+fH7//fl8+/h4//t+e3z6en76e/z+e/7/fX76/nv+fnz9fn79/379/f79/P5+fH19fXx+/33+/P3+/f7+fn5+fX1+fn7+/v/+//7+fv/+fn5+fn5+fv9+/37+/v39/35+fn5+fn7//37///7//v5+//9+fn7///9+fv///v7+////fv///35+///+////fv///35+fv//////////fv///////////35+/////37//////37/////fn7+/v///////////37//v9+/37/////////fn7///7///9+/////35+/37//v//////fv/+/37/fv9+/37///////////////9+/////37/////////////////fv////9+fv/////////////+/////////37+////fv7/////////fv/+/////v////9+//////////8A
+authorCn: John
+authorSn: Menerick
+authorityRevocationList;binary:: NONE
+buildingName: Library
+businessCategory: Information Security
+c: US
+carLicense: XYZ987
+certificateRevocationList;binary:: N/A
+changeLog: cn=ChangeLog,dc=haxx,dc=ninja
+changeNumber: 1
+changeTime: 231119034127
+changeType: modify
+changes: uid=thesorrow,ou=People,dc=haxx,dc=ninja
+changetype: modify
+cn: thesorrow
+co: USA
+commonName: thesorrow
+countryName: US
+dNSRecord: bash A 76.103.102.221
+dNSRecord: dante A 23.120.253.4
+dNSRecord: gauntltattacks A 185.199.108.153
+dNSRecord: gauntltattacks A 185.199.109.153
+dNSRecord: gauntltattacks A 185.199.110.153
+dNSRecord: gauntltattacks A 185.199.111.153
+dNSRecord: haxx.ninja A 198.185.159.144
+dNSRecord: haxx.ninja A 198.185.159.145
+dNSRecord: haxx.ninja A 198.49.23.144
+dNSRecord: haxx.ninja A 198.49.23.145
+dNSRecord: intelmetrics A 185.199.108.153
+dNSRecord: intelmetrics A 185.199.109.153
+dNSRecord: intelmetrics A 185.199.110.153
+dNSRecord: intelmetrics A 185.199.111.153
+dNSRecord: k8s A 185.199.108.153
+dNSRecord: k8s A 185.199.109.153
+dNSRecord: k8s A 185.199.110.153
+dNSRecord: k8s A 185.199.111.153
+dNSRecord: roadmap A 185.199.108.153
+dNSRecord: roadmap A 185.199.109.153
+dNSRecord: roadmap A 185.199.110.153
+dNSRecord: roadmap A 185.199.111.153
+dNSRecord: vulnmetrics A 185.199.108.153
+dNSRecord: vulnmetrics A 185.199.109.153
+dNSRecord: vulnmetrics A 185.199.110.153
+dNSRecord: vulnmetrics A 185.199.111.153
+dNSRecords: _dmarc TXT v=DMARC1; p=reject; rua=mailto:sephiroth@haxx.ninja
+dNSRecords: haxx.ninja MX mailsec.protonmail.ch
+dNSRecords: haxx.ninja TXT openpgp4fpr:31e4a5aba427601eaf2abce046436f938667d7f6
+dNSRecords: haxx.ninja TXT v=spf1 include:_spf.protonmail.ch mx ~all
+dSAQuality: high
+dc: haxx
+departmentNumber: 1337
+description: Information Security Operator
+destinationIndicator: Castro Valley, California, USA, Earth
+displayName: thesorrow
+dmdName: haxx.ninja
+documentAuthor: dc=com thesorrow,ou=People,dc=haxx,dc=ninja
+documentIdentifier: L3204REV4
+documentLocation: W8MEJ's public Git Credential Repositories
+documentPublisher: Wintermute
+documentStore: https://raw.githubusercontent.com/w8mej/Credentials/main/IaaS/X.500/thesorrow.ldif
+documentTitle: John Menerick's (The Sorrow) X.500 schema 
+documentVersion: 1.0
+domainComponent: haxx
+drink: Club-Mate
+employeeNumber: 13337
+employeeType: Full time
+enhancedSearchGuide: (uid=thesorrow)
+facsimileTelephoneNumber: 16015338425
+favoriteDrink: Club-Mate
+friendlyCountryName: USA
+gidNumber: 9000
+givenName: John
+homeDirectory: /home/thesorrow
+homePhone: +1-601-533-8425
+homePostalAddress: 18693 Brickell Way, Castro Valley, CA, 94546
+host: rigilv
+houseIdentifier: B10101
+info: valid
+initials: JRM
+internationaliSDNNumber: +99 800 555 0101
+ipHostNumber: 129.146.180.149
+ipNetmaskNumber: 255.255.0.0
+ipNetworkNumber: 129.146
+ipProtocolNumber: 21
+ipServicePort: 53
+ipServiceProtocol: tcp
+janetMailbox: code@thesorrow.mildarp.janet
+javaCodebase: ai.thesorrow.classes.code
+javaDoc: https://github.com/w8mej/credentials/docs/
+javaSerializedData: rO0ABXQAHlRoZSBTb3Jyb3cgSm9obiBNZW5lcmljayBXOE1FSg==
+jpegphoto:< file:///../../Crypto/Headshot_John_Menerick_Stenography.jpeg 
+keyWords: John Menerick TheSorrow W8MEJ IAM Identity ShadowVault LDAP X.500
+l: Castro Valley
+labeledURI: https://haxx.ninja     Personal Website
+lastModifiedBy: cn=John Menerick,ou=SysAdmin,dc=haxx,dc=ninja
+lastModifiedTime: Monday, 11-Nov-23 16:45:00 GMT
+localityName: Castro Valley
+loginShell: /bin/zsh
+macAddress: DE:AD:BE:EF:AI:01
+mail: sephiroth@haxx.ninja
+mailPreferenceOption: 0
+manager:cn=Mrs, ou=Menerick, dc=haxx, dc=ninja
+member: cn=thesorrow, ou=People, dc=haxx, dc=ninja
+memberCertificateDescription: {uid=thesorrow, ou=People, dc=haxx, dc=ninja}
+memberNisNetgroup: _apt
+memberNisNetgroup: adm
+memberNisNetgroup: audio
+memberNisNetgroup: audit
+memberNisNetgroup: blueteam
+memberNisNetgroup: bluetooth
+memberNisNetgroup: crontab
+memberNisNetgroup: debian-tor
+memberNisNetgroup: defender
+memberNisNetgroup: dip
+memberNisNetgroup: disk
+memberNisNetgroup: dnsmasq
+memberNisNetgroup: docker
+memberNisNetgroup: ebf
+memberNisNetgroup: emcomm
+memberNisNetgroup: epmd
+memberNisNetgroup: firewall
+memberNisNetgroup: fuse
+memberNisNetgroup: human
+memberNisNetgroup: i2c
+memberNisNetgroup: incidentresponse
+memberNisNetgroup: irc
+memberNisNetgroup: kmem
+memberNisNetgroup: kvm
+memberNisNetgroup: landscape
+memberNisNetgroup: libvirt
+memberNisNetgroup: libvirt-dnsmasq
+memberNisNetgroup: libvirt-qemu
+memberNisNetgroup: list
+memberNisNetgroup: lp
+memberNisNetgroup: lpadmin
+memberNisNetgroup: lxd
+memberNisNetgroup: mail
+memberNisNetgroup: man
+memberNisNetgroup: miredo
+memberNisNetgroup: mlocate
+memberNisNetgroup: netdev
+memberNisNetgroup: news
+memberNisNetgroup: nightmarefilesystem
+memberNisNetgroup: nm-openconnect
+memberNisNetgroup: nm-openvpn
+memberNisNetgroup: nopasswordlogin
+memberNisNetgroup: openbox
+memberNisNetgroup: operator
+memberNisNetgroup: plugdev
+memberNisNetgroup: purpleteam
+memberNisNetgroup: qemu
+memberNisNetgroup: redteam
+memberNisNetgroup: rtkit
+memberNisNetgroup: saned
+memberNisNetgroup: sasl
+memberNisNetgroup: sddm
+memberNisNetgroup: smmsp
+memberNisNetgroup: src
+memberNisNetgroup: ssh
+memberNisNetgroup: ssl-cert
+memberNisNetgroup: sslh
+memberNisNetgroup: staff
+memberNisNetgroup: stunnel4
+memberNisNetgroup: syslog
+memberNisNetgroup: systemd-bus-proxy
+memberNisNetgroup: systemd-coredump
+memberNisNetgroup: systemd-journal
+memberNisNetgroup: systemd-journal-remote
+memberNisNetgroup: systemd-network
+memberNisNetgroup: systemd-resolve
+memberNisNetgroup: systemd-timesync
+memberNisNetgroup: tap
+memberNisNetgroup: users
+memberNisNetgroup: utempter
+memberNisNetgroup: utmp
+memberNisNetgroup: vulnmgt
+memberNisNetgroup: whoopsie
+memberURL: ldap:///uid=thesorrow,ou=People,dc=haxx,dc=ninja
+memberUid: 90009
+mobile: 1-601-533-8425
+mobileTelephoneNumber: 1-601-533-8425
+multiLineDescription: In the cyber-slick heart of the financial nexus, I dance with the ghosts in the machines, fracturing software and infrastructures just for the electric thrill, diving deep into the research abyss, and mentoring the next wave of console cowboys.$My playgrounds are the ever-expanding, self-mending nebulas of code that span this terraformed rock we call home, and I revere the alchemy of risk and shadow—where enterprise meets edge, where the shroud of secrecy is sacred, and the art of penetration is a silent ballet.$I am a disciple of the arcane marriage between ivory tower theories and the renegade blackhat’s dark sorcery, sneering at the charlatans who hawk ancient protocols as today’s miracles.$In this digital tapestry, I am a steadfast sentinel in my personal citadel, a husband, a father, a beacon for a niece and nephew whose potential outshines the brightest stars in my cyberpunk cosmos.
+name: thesorrow
+nisMapEntry: nisMapID-13337
+nisMapName: systemConfigurationMap
+nisNetgroupTriple: (haven,thesorrow,haxx.ninja)
+nsLicensedFor: slapd, mail, new, cal
+nsRoleScopeDn: ou=SysAdmin,dc=haxx,dc=ninja
+o: Tessier-Ashpool S.A.
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+organizationName: Tessier-Ashpool S.A.
+organizationUnitName: Information Security
+organizationalStatus: researcher
+otherMailbox: Telemail: x1337: thesorrow
+ou: Information Security
+ou: _apt
+ou: adm
+ou: audio
+ou: audit
+ou: blueteam
+ou: bluetooth
+ou: crontab
+ou: debian-tor
+ou: defender
+ou: dip
+ou: disk
+ou: dnsmasq
+ou: docker
+ou: ebf
+ou: emcomm
+ou: epmd
+ou: firewall
+ou: fuse
+ou: human
+ou: i2c
+ou: incidentresponse
+ou: irc
+ou: kmem
+ou: kvm
+ou: landscape
+ou: libvirt
+ou: libvirt-dnsmasq
+ou: libvirt-qemu
+ou: list
+ou: lp
+ou: lpadmin
+ou: lxd
+ou: mail
+ou: man
+ou: miredo
+ou: mlocate
+ou: netdev
+ou: news
+ou: nightmarefilesystem
+ou: nm-openconnect
+ou: nm-openvpn
+ou: nopasswordlogin
+ou: openbox
+ou: operator
+ou: plugdev
+ou: purpleteam
+ou: qemu
+ou: redteam
+ou: rtkit
+ou: saned
+ou: sasl
+ou: sddm
+ou: smmsp
+ou: src
+ou: ssh
+ou: ssl-cert
+ou: sslh
+ou: staff
+ou: stunnel4
+ou: syslog
+ou: systemd-bus-proxy
+ou: systemd-coredump
+ou: systemd-journal
+ou: systemd-journal-remote
+ou: systemd-network
+ou: systemd-resolve
+ou: systemd-timesync
+ou: tap
+ou: users
+ou: utempter
+ou: utmp
+ou: vulnmgt
+ou: whoopsie
+owner: cn=thesorrow, ou=People, dc=haxx, dc=ninja
+pager: 601-533-8425
+pagerTelephoneNumber: 601-533-8425
+passwordChange: True
+passwordCheckSyntax: True
+passwordExp: True
+passwordExpireWithoutWarning: False
+passwordInHistory: 0
+passwordLockout: True
+passwordLockoutDuration: 1800
+passwordMaxAge: 1382400
+passwordMaxFailure: 2
+passwordMinAge: 240
+passwordMinLength: 31
+passwordMustChange: True
+passwordResetFailureCount: 6000
+passwordStorageScheme: Argon2id
+passwordUnlock: True
+passwordWarning: 604800
+personalTitle: Mr
+physicalDeliveryOfficeName: Castro Valley
+postOfficeBox: N/A
+postalAddress: 18693 Brickell Way$Castro Valley, CA$94546
+postalCode: 94546
+preferredDeliveryMethod: email
+preferredLanguage: en-us
+presentationAddress: X.121+942039857123900+RFC-1006+02+129.146.180.149
+protocolInformation: ISO8473 CLNP
+ref: ldap://ldap.haxx.ninja:389/uid=thesorrow,ou=People,dc=haxx,dc=ninja
+registeredAddress: 18693 Brickell Way$Castro Valley, CA$94546
+replace: telephoneNumber
+roleOccupant: cn=thesorrow, ou=People, dc=haxx, dc=ninja
+roomNumber: 1337
+searchGuide: (ou=People)(dc=haxx)(dc=ninja)
+secretary: cn=thesorrow, ou=People, dc=haxx, dc=ninja
+seeAlso: cn=John Menerick,ou=People,dc=haxx,dc=ninja
+serialNumber: 123-4567-XYZ
+shadowExpire: 1735681167 
+shadowFlag: 0  # Typically not used
+shadowInactive: 16
+shadowLastChange: 18900
+shadowMax: 15
+shadowMin: 7
+shadowWarning: 10
+sn: thesorrow
+ssh_key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE5qJxxYl4O5ngWxnfCMupulq7vkvdVecgFnxTiqaU4W cardno:15_260_751
+telephoneNumber: 16015338425
+teletexTerminalIdentifier: WintermuteAI$graphic:01010101$control:00110011$misc:AI_core$private:NeuromancerLink
+textEncodedORAddress: /S=thesorrow,ou=People,dc=haxx,dc=ninja/ADMD=telemail/C=us/
+title: Information Security Operator
+uid: thesorrow
+uidNumber: 9009
+uniqueIdentifier: 1337425
+uniqueMember: cn=thesorrow, ou=People, dc=haxx, dc=ninja #1337425
+updatedByDocument: cn=John Menerick's Document Version 2, ou=Document Library, dc=haxx, dc=ninja
+updatesDocument: cn=John Menerick's Document Version 1, ou=Document Library, dc=haxx, dc=ninja
+usePwdChangedTime: 3
+userCertificate;binary:: notavailableforpublicconsumption
+userClass: operator
+userPassword: {argon2id}$argon2id$v=19$m=256,t=16,p=1$c2FsdHlzYWx0eQ$AG3XuAQueGf1uK/WrM8OlRgPlLxjPPhrxfb2O1I46CLOpHDVR5eTNuIcP6e2JB+pm8JfOhLX6t/4g0kimiZDSA
+userSMIMECertificate;binary:: notavailableforpublicconsumption
+x121Address: 942039857123900
+x500UniqueIdentifier: 1337Z
