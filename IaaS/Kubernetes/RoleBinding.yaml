@@ -1,0 +1,32 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  namespace: thesorrow
+  name: thesorrow_compute
+  uuid: 82217383-f3ef-4a27-b7eb-ff12faa67d71
+  resourceversion: alphav1
+  generation: 1337
+  creationTimestamp: 2023-11-13T03:53:04-08:00
+  deletionTimestamp: 2024-12-29T03:54:53-08:00
+  labels: {
+    type: human,
+    workload_type: aimlautomation,
+    orchestration: soar,
+    business_need: incident response,
+    repo: w8mej
+  }
+  annotations: {
+    owner: thesorrow,
+    department: infosec,
+    cost center: operations
+  }
+subjects:
+  - kind: ServiceAccount
+    name: thesorrow_compute_serviceaccount
+    namespace: thesorrow
+    apiGroup: rbac.authorization.k8s.io
+
+roleRef:
+  kind: Role
+  name: thesorrow_compute_role
+  apiGroup: rbac.authorization.k8s.io
