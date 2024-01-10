@@ -1,0 +1,12 @@
+POST /_security/user/thesorrow
+{
+  "password" : "thisisinsecuresoCHANGEM3!",
+  "roles" : ["your_role"],
+  "full_name" : "TheSorrow",
+  "enabled": "true",
+  "email": "sephiroth@haxx.ninja",
+  "roles": [ "adm", "docker", "users", "netdev", "plugdev", "audit", "emcomm", "human", "defender", "incidentresponse", "purpleteam", "redteam", "blueteam", "vulnmgt", "disk", "lp", "mail", "kmem", "operator", "irc", "src", "staff", "systemd", "kvm", "crontab", "syslog", "ssl-cert", "mlocate", "ssh", "systemd", "kvm", "qemu", "firewall", "tap", "ebf"] 
+  "metadata": {
+    "about": "John Menerick TheSorrow user for infosec operations"
+  }
+}

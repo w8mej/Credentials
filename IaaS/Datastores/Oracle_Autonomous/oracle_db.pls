@@ -1,0 +1,4 @@
+CREATE USER thesorrow IDENTIFIED BY thisisinsecuresoCHANGEM3!;
+GRANT CONNECT TO thesorrow;
+GRANT CREATE SESSION TO thesorrow;
+

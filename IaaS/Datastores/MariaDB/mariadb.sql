@@ -1,0 +1,6 @@
+CREATE USER IF NOT EXISTS 'thesorrow'@'localhost' REQUIRE SUBJECT '/CN=thesorrow/O=Haxx/C=US/ST=California/L=Castro Valley'
+ AND CIPHER 'ECDHE-ECDSA-AES256-SHA384' WITH 
+     MAX_USER_CONNECTIONS 10
+    MAX_QUERIES_PER_HOUR 200;
+GRANT ALL PRIVILEGES ON thesorrowDatabase.* TO 'thesorrow'@'localhost';
+FLUSH PRIVILEGES;
