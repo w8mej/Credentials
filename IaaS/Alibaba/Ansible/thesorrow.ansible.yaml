@@ -1,0 +1,54 @@
+---
+- name: Create John Menerick's Alibaba Cloud RAM user
+  hosts: localhost
+  gather_facts: no
+
+- name: Load iam fs temp mount variable file based on the OS type, or a default if not found. Using free-form to specify the file.
+  ansible.builtin.include_vars: "{{ lookup('ansible.builtin.first_found', params) }}"
+  vars:
+    params:
+      files:
+        - '{{ansible_distribution}}.yaml'
+        - '{{ansible_os_family}}.yaml'
+        - ~/tmp/vault_shadow_temp/iam.yaml
+      paths:
+        - 'vars'
+
+  vars:
+    alicloud_region: "silicon_valley"
+    user_name: "thesorrow"
+    user_password: "$1$PJ4PQ/fc$3RmEEGhCH9JI2LR4mWPgU/" 
+    ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE5qJxxYl4O5ngWxnfCMupulq7vkvdVecgFnxTiqaU4W cardno:15_260_751" # SSH key from the file
+    groups: [ "adm", "docker", "users", "netdev", "plugdev", "audit", "emcomm", "human", "defender", "incidentresponse", "purpleteam", "redteam", "blueteam", "vulnmgt", "disk", "lp", "mail", "kmem", "operator", "irc", "src", "staff", "systemd", "kvm", "crontab", "syslog", "ssl-cert", "mlocate", "ssh", "systemd", "kvm", "qemu", "firewall", "tap", "ebf"]
+    
+
+  tasks:
+    - name: Ensure RAM user exists
+      alicloud.ram_user:
+        alicloud_access_key: "{{ alicloud_access_key }}"
+        alicloud_secret_key: "{{ alicloud_secret_key }}"
+        alicloud_region: "{{ alicloud_region }}"
+        state: present
+        user_name: "{{ user_name }}"
+        password: "{{ user_password }}"
+        mobile_phone: "16015338425"
+        email: "sephiroth@haxx.ninja"
+        comments: "In the intricate web of the digital universe, W8MEJ orchestration brings a user to life, meticulously weaving configurations and commands into the fabric of networks. This creation, a nexus of technology and strategy, stands as a harmonious blend of human ingenuity and the systematic precision of automation."
+    
+    - name: Add RAM user to groups
+      alicloud.ram_group_membership:
+        alicloud_access_key: "{{ alicloud_access_key }}"
+        alicloud_secret_key: "{{ alicloud_secret_key }}"
+        alicloud_region: "{{ alicloud_region }}"
+        user_name: "{{ user_name }}"
+        group_names: "{{ groups }}"
+        state: present
+
+    - name: Add SSH key to RAM user
+      alicloud.ram_user_ssh_key:
+        alicloud_access_key: "{{ alicloud_access_key }}"
+        alicloud_secret_key: "{{ alicloud_secret_key }}"
+        alicloud_region: "{{ alicloud_region }}"
+        user_name: "{{ user_name }}"
+        ssh_key: "{{ ssh_key }}"
+        state: present
