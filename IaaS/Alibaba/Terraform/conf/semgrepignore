@@ -1,0 +1,19 @@
+# Ignore git items
+.gitignore
+.git/
+
+# Common large paths
+build/
+dist/
+vendor/
+
+# Semgrep rules folder
+.semgrep
+
+# Semgrep-action log folder
+.semgrep_logs/
+
+# Semgrep autoignore path
+:include .semgrepignore
+
+
