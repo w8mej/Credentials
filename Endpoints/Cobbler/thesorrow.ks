@@ -1,0 +1,55 @@
+%post
+/usr/sbin/adduser thesorrow \
+    -K CHFN_RESTRICT=rwh \
+    -K DEFAULT_HOME=yes \
+    -K ENCRYPT_METHOD=SHA512 \
+    -K ENV_PATH=PATH=/bin:/usr/bin \
+    -K ENV_SUPATH=PATH=/sbin:/bin:/usr/sbin:/usr/bin \
+    -K ERASECHAR=0177 \
+    -K FAIL_DELAY=4 \
+    -K GID_MAX=60000 \
+    -K GID_MIN=1000 \
+    -K HUSHLOGIN_FILE=.hushlogin \
+    -K KILLCHAR=025 \
+    -K LOGIN_RETRIES=5 \
+    -K LOGIN_TIMEOUT=60 \
+    -K LOG_OK_LOGINS=no \
+    -K LOG_UNKFAIL_ENAB=no \
+    -K MAIL_DIR=/var/mail/thesorrow \
+    -K PASS_MAX_DAYS=90 \
+    -K PASS_MIN_DAYS=1 \
+    -K PASS_WARN_AGE=7 \
+    -K SUB_GID_COUNT=65536 \
+    -K SUB_GID_MAX=600100000 \
+    -K SUB_GID_MIN=100000 \
+    -K SUB_UID_COUNT=65536 \
+    -K SUB_UID_MAX=600100000 \
+    -K SUB_UID_MIN=100000 \
+    -K SU_NAME=su \
+    -K SYSLOG_SG_ENAB=yes \
+    -K SYSLOG_SU_ENAB=yes \
+    -K SYS_GID_MAX=999 \
+    -K SYS_GID_MIN=101 \
+    -K SYS_UID_MAX=999 \
+    -K SYS_UID_MIN=101 \
+    -K TTYGROUP=tty \
+    -K TTYPERM=0600 \
+    -K UID_MAX=60000 \
+    -K UID_MIN=1000 \
+    -K UMASK=077 \
+    -K USERGROUPS_ENAB=no \
+    --base-dir /home/thesorrow \
+    --comment "Within the labyrinthine circuits of Unix, John Menerick emerges as a local user, a digital identity crafted by the hands of unseen administrators. He is a ghost in the machine, a presence that navigates the complex pathways of Unix, a silent whisper echoing through lines of code and command prompts." \
+    --expiredate 2033-12-03 \
+    --inactive 8 \
+    --gid 9009 \
+    --groups sysadmin,security,devops,developer,whitehat,blackhat,human \
+    --create-home \
+    --shell /bin/zsh \
+    --uid 9009 \
+    --user-group \
+    --selinux-user the_sorrow \
+    --disabled-password \
+    --gecos "John Menerick,16015338425,16015338425,Information Security,Operator,Employee,Castro Valley,CA,USA,Engineering Operations,Human,IncidentResponse,W8MEJ,sephiroth@haxx.ninja,https://keyoxide.org/sephiroth@haxx.ninja"
+echo thesorrow:password | chpasswd
+%end
